@@ -1,0 +1,52 @@
+h1 {
+ font-family: 'Prompt', sans-serif;
+  text-align: center;
+      color: #59738D;
+}
+h4{
+font-family: 'Prompt', sans-serif;
+color: #59738D;  
+}
+
+h5{
+font-family: 'Prompt', sans-serif;
+  color: #59738D;
+}
+
+p{
+font-family: 'Kanit', sans-serif;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.my-bg {
+  background-image: url("../images/mookmik.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.my-responsive {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-color: #F1EFE7;
+}
+
+.my-nav{
+font-family: 'Pixelify Sans', cursive;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
